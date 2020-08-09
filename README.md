@@ -1,1 +1,2 @@
 # Startups-data-analysis-and-profit-prediction
+An analysis on 50 startups has been carried out. This analysis throws light upon the relations between marketing spend, administration, research and development spend with respect to profits obtained in various geographical locations. I believe that this kind of analysis when presented to business experts would help them make strategic decisions, achieve major goals and solve complex problems, by analyzing and reporting the most useful information relevant to their needs.
